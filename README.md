@@ -24,7 +24,6 @@ Smooth, balanced, and lingering umami. Gentle on the tongue, aromatic refinement
 
 ### Mi-Cha Origin — *RM 12.90*
 For those who appreciate the authentic character of ceremonial-grade matcha.
-
 Bold matcha flavor with gentle bitterness and lingering umami. Subtle bitterness with natural sweetness, rich tea character, and a memorable finish.
 
 ## *Hojicha Latte*
