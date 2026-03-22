@@ -19,14 +19,13 @@ At Mi-Cha, we believe that every sip should be a moment of mindfulness. Our bran
 
 ## *Matcha Latte*
 ### Mi-Cha Signature — *RM 11.90*
-Smooth, balanced, and lingering umami. Our flagship offering presents a harmonious blend of ceremonial-grade that speaks to both the palate and the soul.
-
-*顺口不苦，茶香柔和，余韵悠长的鲜醇* — Gentle on the tongue, aromatic refinement, with a lingering fresh finish.
+Our flagship offering presents a harmonious blend of ceremonial-grade that speaks to both the palate and the soul.
+Smooth, balanced, and lingering umami. Gentle on the tongue, aromatic refinement, with a lingering fresh finish.
 
 ### Mi-Cha Origin — *RM 12.90*
-Bold matcha flavor with gentle bitterness and lingering umami. For those who appreciate the authentic character of ceremonial-grade matcha.
+For those who appreciate the authentic character of ceremonial-grade matcha.
 
-*微苦回甘，茶味浓郁，余韵悠长的鲜醇* — Subtle bitterness with natural sweetness, rich tea character, and a memorable finish.
+Bold matcha flavor with gentle bitterness and lingering umami. Subtle bitterness with natural sweetness, rich tea character, and a memorable finish.
 
 ## *Hojicha Latte*
 ### Mi-Cha Hohoho — *RM 9.90*
