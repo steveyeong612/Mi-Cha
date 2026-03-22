@@ -30,7 +30,7 @@ Bold matcha flavor with gentle bitterness and lingering umami. For those who app
 
 ## *Hojicha Latte*
 ### Mi-Cha Hohoho — *RM 9.90*
-Rich, toasty, caramel and chocolate notes. Our hojicha is fire-roasted to perfection, deliverying deep notes of caramelized oak, dark cocoa and a signature smokey-sweet finish.
+Rich, toasty, caramel and chocolate notes. Our hojicha is fire-roasted to perfection, delivering deep notes of caramelized oak, dark cocoa and a signature smokey-sweet finish.
 
 ---
 
