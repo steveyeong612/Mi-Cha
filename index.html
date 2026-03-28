@@ -407,33 +407,40 @@ footer a:hover {
     font-size: 13px;
   }
 
-  .featured-item {
+  .featured-item{
     grid-template-columns: 1fr;
-    gap: 30px;
-    margin-bottom: 50px;
+    gap: 40px;
+    margin-bottom: 60px;
   }
 
-  .featured-image img {
-    width: 90%;
+  .featured-item:nth-child(even){
+    direction: ltr;
   }
 
-  .featured-content {
-    text-align: left;
-    gap: 12px;
+  .featured-image{
+    order: 2;
   }
 
-  .hero {
-    padding: 50px 20px;
+  .featured-content{
+    order: 1;
   }
 
-  .featured {
+  .featured-item:nth-child(even).featured-image{
+    order: 2;
+  }
+
+  .featured-item:nth-child(even).featured-content{
+    order: 1;
+  }
+
+  .featured{
     padding: 60px 20px;
   }
 
-  .featured-container {
+  .featured-container{
     padding: 0 10px;
   }
-
+ 
   .pillars {
     grid-template-columns: 1fr;
     gap: 25px;
