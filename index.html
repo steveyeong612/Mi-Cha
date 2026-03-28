@@ -149,6 +149,7 @@ nav a:hover {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 60px;
+  direction: ltr;
   align-items: center;
   margin-bottom: 100px;
   animation: fadeInUp 0.8s ease;
@@ -160,7 +161,7 @@ nav a:hover {
 
 .featured-item:nth-child(even) {
   grid-template-columns: 1fr 1fr;
-  direction: rtl;
+  direction: ltr;
 }
 
 .featured-item:nth-child(even) > * {
