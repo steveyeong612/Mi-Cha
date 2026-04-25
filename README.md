@@ -61,5 +61,5 @@ Both plant-based alternatives are offered at no additional cost.
 ---
 
 
-**Mi-Cha** | Homemade Matcha Crafted with Heart  
+**Mi-Cha** | Homemade Drinks Crafted with Heart  
 *Pure. Ceremonial. Indulgence.*
