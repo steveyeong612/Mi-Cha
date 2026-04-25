@@ -1,7 +1,7 @@
 # 🌸 Mi-Cha
 ## Pure · Ceremonial · Indulgence
 
-Welcome to **Mi-Cha**, a premium matcha / hojicha latte experience that celebrates the art of traditional tea craftsmanship with modern wellness consciousness.
+Welcome to **Mi-Cha**, a premium matcha / hojicha / ube latte experience that celebrates the art of traditional tea craftsmanship with modern wellness consciousness.
 
 ---
 
@@ -30,6 +30,10 @@ Bold matcha flavor with gentle bitterness and lingering umami. Subtle bitterness
 ### Mi-Cha Hohoho — *RM 9.90*
 Rich, toasty, caramel and chocolate notes. Our hojicha is fire-roasted to perfection, delivering deep notes of caramelized oak, dark cocoa and a signature smokey-sweet finish.
 
+## *Ube Latte*
+### Mi-Cha Ube — *RM 9.90*
+Creamy, nutty and naturally sweet. Our ube is using Bionutricia ube purple yam extract powder, delivering smooth notes of vanilla-like sweetness, subtle roasted nuts and a gentle earthy depth.
+
 ---
 
 ## 💚 Why Us?
@@ -44,7 +48,7 @@ Rich, toasty, caramel and chocolate notes. Our hojicha is fire-roasted to perfec
 
 ## 🥛 Milk Options
 
-- **Oat Milk (燕麦奶)** — Creamy, neutral, perfect for matcha
+- **Oat Milk (燕麦奶)** — Creamy, neutral, nutty
 - **Almond Milk (杏仁奶)** — Light, delicate, naturally sweet
 
 Both plant-based alternatives are offered at no additional cost.
