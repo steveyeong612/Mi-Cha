@@ -553,8 +553,8 @@ section { padding: 100px 24px; }
 
 /* ─── TESTIMONIALS ──────────────────────── */
 .testimonials { background: var(--cream); overflow: hidden; }
-.testimonials-inner { max-width: 900px; margin: 0 auto; }
-.testimonials-header { text-align: center; margin-bottom: 36px; }
+.testimonials-inner { max-width: 1100px; margin: 0 auto; }
+.testimonials-header { text-align: center; margin-bottom: 64px; }
 .testimonials-header .section-tag { justify-content: center; }
 .testimonials-header .section-tag::before { display: none; }
 .testimonials-header .section-tag::after { content: ''; display: block; width: 24px; height: 1px; background: var(--sage); }
@@ -563,13 +563,13 @@ section { padding: 100px 24px; }
 .testi-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
+  gap: 24px;
 }
 
 .testi-card {
   background: #fff;
-  border-radius: 14px;
-  padding: 20px 20px;
+  border-radius: 20px;
+  padding: 36px 32px;
   position: relative;
   border: 1px solid var(--border);
   transition: all 0.35s;
@@ -577,35 +577,35 @@ section { padding: 100px 24px; }
 .testi-card:hover { transform: translateY(-5px); box-shadow: 0 16px 50px rgba(0,0,0,0.07); }
 
 .testi-card.featured {
-  background: #fff;
-  border-color: var(--border);
+  background: var(--ink);
+  border-color: var(--ink);
   grid-row: span 2;
 }
 
 .quote-mark {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 48px;
+  font-size: 72px;
   line-height: 0.6;
   color: var(--sage);
-  margin-bottom: 12px;
+  margin-bottom: 20px;
   display: block;
   font-weight: 300;
 }
-.testi-card.featured .quote-mark { color: var(--sage); }
+.testi-card.featured .quote-mark { color: var(--gold); }
 
 .testi-card .text {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 15px;
-  line-height: 1.6;
+  font-size: 19px;
+  line-height: 1.75;
   color: var(--ink);
   font-style: italic;
-  margin-bottom: 16px;
+  margin-bottom: 28px;
 }
-.testi-card.featured .text { color: var(--ink); font-size: 16px; }
+.testi-card.featured .text { color: rgba(255,255,255,0.9); font-size: 21px; }
 
-.testi-author { display: flex; align-items: center; gap: 10px; }
+.testi-author { display: flex; align-items: center; gap: 14px; }
 .testi-avatar {
-  width: 34px; height: 34px;
+  width: 42px; height: 42px;
   border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
   font-family: 'Cinzel', serif;
@@ -617,17 +617,17 @@ section { padding: 100px 24px; }
 .testi-avatar.a2 { background: var(--brown-pale); color: var(--brown); }
 .testi-avatar.a3 { background: var(--ube-pale); color: var(--ube); }
 .testi-avatar.a4 { background: var(--sage-pale); color: var(--sage); }
-.testi-card.featured .testi-avatar { background: var(--sage-pale); color: var(--sage); }
+.testi-card.featured .testi-avatar { background: rgba(197,165,90,0.2); color: var(--gold); }
 
-.testi-name { font-weight: 600; font-size: 12px; color: var(--ink); }
-.testi-card.featured .testi-name { color: var(--ink); }
-.testi-handle { font-size: 11px; color: var(--muted); letter-spacing: 0.5px; }
-.testi-card.featured .testi-handle { color: var(--muted); }
+.testi-name { font-weight: 600; font-size: 14px; color: var(--ink); }
+.testi-card.featured .testi-name { color: #fff; }
+.testi-handle { font-size: 12px; color: var(--muted); letter-spacing: 0.5px; }
+.testi-card.featured .testi-handle { color: rgba(255,255,255,0.45); }
 
 .stars {
-  display: flex; gap: 3px; margin-bottom: 10px;
+  display: flex; gap: 3px; margin-bottom: 16px;
 }
-.star { color: var(--gold); font-size: 12px; }
+.star { color: var(--gold); font-size: 14px; }
 
 /* ─── FAQ ───────────────────────────────── */
 .faq-section { background: var(--cream-deep); }
@@ -1134,7 +1134,7 @@ footer {
 </section>
 
 <!-- ══ TESTIMONIALS ══════════════════════════ -->
-<section id="testimonials" class="testimonials" style="padding: 60px 24px;">
+<section id="testimonials" class="testimonials">
   <div class="testimonials-inner">
     <div class="testimonials-header reveal">
       <div class="section-tag">Reviews</div>
@@ -1259,3 +1259,96 @@ footer {
       </div>
 
     </div>
+  </div>
+</section>
+
+<!-- ══ LOCATION ══════════════════════════════ -->
+<section id="location" class="location-section fade-section">
+  <div class="location-wrapper">
+    <div class="section-header">
+      <h3>Location</h3>
+      <p>D Vervain, Damansara Perdana, Petaling Jaya, Selangor</p>
+    </div>
+
+    <div class="map-container">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.698220164273!2d101.61410613915058!3d3.173919196814715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc493427b82bbf%3A0x8d549267611b5f6b!2sD&#39;Vervain%20Residences!5e0!3m2!1sen!2smy!4v1774684192319!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen=""
+        loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══ FOOTER ════════════════════════════════ -->
+<footer>
+  <span class="footer-brand">MICHA</span>
+  <span class="footer-copy">© 2026 MiCha · All Rights Reserved</span>
+  <span class="footer-link"><a href="https://wa.me/60147401523">Contact Us</a></span>
+</footer>
+
+<!-- ══ FLOATING ORDER ════════════════════════ -->
+<a href="https://wa.me/60147401523?text=Hi%20MiCha%2C%20I%20want%20to%20order%0A%0ADrink%3A%20Mi-Cha%20Signature%20%2F%20Mi-Cha%20Origin%20%2F%20Mi-Cha%20Hohoho%0AMilk%3A%20Oat%20%2F%20Almond%0AQuantity%3A%20" class="float-order">Order Now</a>
+
+<script>
+// ── Scroll reveal
+const io = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); } });
+}, { threshold: 0.1 });
+document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+
+// ── Staggered reveal for children
+const ioStagger = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      const children = e.target.querySelectorAll('.testi-card, .milk-card, .faq-item, .pillar-item, .menu-card');
+      children.forEach((child, i) => {
+        child.style.transitionDelay = `${i * 0.1}s`;
+        child.style.opacity = '1';
+        child.style.transform = 'none';
+      });
+    }
+  });
+}, { threshold: 0.05 });
+
+// Pre-hide stagger items
+document.querySelectorAll('.testi-card, .milk-card, .pillar-item, .menu-card').forEach(el => {
+  el.style.opacity = '0';
+  el.style.transform = 'translateY(24px)';
+  el.style.transition = 'opacity 0.7s ease, transform 0.7s ease';
+});
+document.querySelectorAll('.testi-grid, .milk-cards, .pillars-grid, .menu-cards').forEach(el => ioStagger.observe(el));
+
+// ── FAQ accordion
+document.querySelectorAll('.faq-q').forEach(q => {
+  q.addEventListener('click', () => {
+    const item = q.closest('.faq-item');
+    const isOpen = item.classList.contains('open');
+    document.querySelectorAll('.faq-item.open').forEach(i => i.classList.remove('open'));
+    if (!isOpen) item.classList.add('open');
+  });
+});
+
+// ── Smooth scroll with header offset
+document.querySelectorAll('a[href^="#"]').forEach(a => {
+  a.addEventListener('click', function(e) {
+    const href = this.getAttribute('href');
+    if (href === '#') return;
+    e.preventDefault();
+    const target = document.querySelector(href);
+    if (target) {
+      const offset = target.getBoundingClientRect().top + window.pageYOffset - 90;
+      window.scrollTo({ top: offset, behavior: 'smooth' });
+    }
+  });
+});
+
+// ── Header scroll effect
+const header = document.querySelector('header');
+window.addEventListener('scroll', () => {
+  header.style.background = window.scrollY > 60
+    ? 'rgba(47,62,46,0.99)'
+    : 'rgba(47,62,46,0.96)';
+});
+</script>
+</body>
+</html>
