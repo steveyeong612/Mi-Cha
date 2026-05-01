@@ -8,10 +8,11 @@ Welcome to **Mi-Cha**, a premium matcha / hojicha / ube latte experience that ce
 ## 🍵 Our Philosophy
 
 At Mi-Cha, we believe that every sip should be a moment of mindfulness. Our brand is built on three core pillars:
-
+'''
 - **PURE** — Authentic ingredients, nothing artificial
 - **CEREMONIAL** — Guaranteed ceremonial-grade powder, the highest quality available
 - **INDULGENCE** — A quietly luxurious experience
+'''
 
 ---
 
