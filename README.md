@@ -8,36 +8,31 @@ Welcome to **Mi-Cha**, a premium matcha / hojicha / ube latte experience that ce
 ## 🍵 Our Philosophy
 
 At Mi-Cha, we believe that every sip should be a moment of mindfulness. Our brand is built on three core pillars:
-```
+
 - **PURE** — Authentic ingredients, nothing artificial
 - **CEREMONIAL** — Guaranteed ceremonial-grade powder, the highest quality available
 - **INDULGENCE** — A quietly luxurious experience
-```
 
 ---
 
 ## ✨ Our Signature Collection
-```
-## *Matcha Latte*
+> ## *Matcha Latte*
 ### Mi-Cha Signature — *RM 11.90*
 Our flagship offering presents a harmonious blend of ceremonial-grade that speaks to both the palate and the soul.
 Smooth, balanced, and lingering umami. Gentle on the tongue, aromatic refinement, with a lingering fresh finish.
-```
-```
+
 ### Mi-Cha Origin — *RM 12.90*
 For those who appreciate the authentic character of ceremonial-grade matcha.
 Bold matcha flavor with gentle bitterness and lingering umami. Subtle bitterness with natural sweetness, rich tea character, and a memorable finish.
-```
-```
+
 ## *Hojicha Latte*
 ### Mi-Cha Hohoho — *RM 9.90*
 Rich, toasty, caramel and chocolate notes. Our hojicha is fire-roasted to perfection, delivering deep notes of caramelized oak, dark cocoa and a signature smokey-sweet finish.
-```
-```
+
 ## *Ube Latte*
 ### Mi-Cha Ube — *RM 9.90*
 Creamy, nutty and naturally sweet. Our ube is using Bionutricia ube purple yam extract powder, delivering smooth notes of vanilla-like sweetness, subtle roasted nuts and a gentle earthy depth.
-```
+
 ---
 
 ## 💚 Why Us?
