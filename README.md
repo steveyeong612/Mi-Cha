@@ -17,7 +17,7 @@ At Mi-Cha, we believe that every sip should be a moment of mindfulness. Our bran
 
 ## ✨ Our Signature Collection
 > ### *Matcha Latte*
-*`Mi-Cha Signature — RM 11.90`*
+### `Mi-Cha Signature — RM 11.90`
 Our flagship offering presents a harmonious blend of ceremonial-grade that speaks to both the palate and the soul.
 Smooth, balanced, and lingering umami. Gentle on the tongue, aromatic refinement, with a lingering fresh finish.
 
